@@ -1,13 +1,13 @@
-Welcome to Lumache's documentation!
+Miraculous Maker Docs
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Miraculous Maker** is a Discord bot written in Python.  It has 
+many features - ranging from an economy system to giveaways, all the way to a premium music plugin.
+It runs using `nextcord <https://github.com/nextcord/nextcord>`_
+on `Python 3.10 <https://python.org>`_.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+how to :ref:`configure` the bot and use the :ref:`dashboard`.
 
 .. note::
 
